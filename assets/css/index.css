@@ -1,0 +1,27 @@
+#keyCode1 {
+  position: absolute;
+  width: 99%;
+  height: 50%;
+  font-size: 19em;
+  text-align: center;
+}
+.ein,
+.zwei {
+  position: relative;
+  top: 60vh;
+  display: flex;
+  justify-content: space-around;
+}
+h1,
+h2 {
+  font-size: 2em;
+  background-color: rgb(75, 156, 248);
+  width: 10%;
+  text-align: center;
+}
+
+h2 {
+  font-size: 3em;
+
+  background-color: white;
+}
